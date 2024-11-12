@@ -1,0 +1,23 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "api whit node and express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon idex.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express"
+  ],
+  "author": "devSaccone",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
